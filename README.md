@@ -21,7 +21,7 @@ python generate_data.py      # creates data/stock_universe.csv and data/stock_pr
 streamlit run app.py
 ```
 
-The app opens in your browser (default: http://localhost:8501).
+The app opens in your browser (hosted: https://indexengineering.streamlit.app).
 
 ## Architecture Choices
 
